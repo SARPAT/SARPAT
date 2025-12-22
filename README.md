@@ -1,5 +1,5 @@
 - Hi, I’m Saransh
-- I’m interested an undergrad student.
+- I’m computer engineering undergrad student.
 - I’m currently learning- Gpu programming-->CUDA C/C++,CUDA Tile, OpenMPI
 - I am passionate and eager to learn about:
 -   QUANTUM ALGORITHM DEVELOPMWNT
