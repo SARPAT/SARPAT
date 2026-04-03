@@ -2,7 +2,7 @@
 
 Computer Science undergrad passionate about systems, hardware, and the infrastructure layer of modern AI.
 
-## 🔧 Currently Learning
+## 🔧 Research Interests
 - ML Systems & Performance Engineering
 - LLM Inference Optimization
 - Distributed Systems
