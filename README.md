@@ -7,13 +7,11 @@ Computer Science undergrad passionate about systems, hardware, and the infrastru
 - LLM Inference Optimization
 - Distributed Systems
 - GPU Programming — CUDA C/C++
-
 ## 🚀 Other Interests
 - Quantum Algorithm Development
 - Networking APIs (CAMARA Project / GSMA Open Gateway)
 - Agentic AI
 - Computer Vision
-- 
 ## 📬 Connect
 - 🌐 [sarpat.github.io](https://sarpat.github.io)
 - 🐦 [Twitter/X](https://x.com/SARAPATEL21)
